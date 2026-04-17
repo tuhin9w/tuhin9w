@@ -50,20 +50,20 @@
 ## 📊 GitHub Stats
 <div align="center">
 <p align="center">
-<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=tuhin92&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin92&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin92&theme=react-dark&hide_border=true&area=true" width="90%">
+<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=tuhin9w&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin9w&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin9w&theme=react-dark&hide_border=true&area=true" width="90%">
 </p>
 </div> 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuhin92&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tuhin9w&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 👥 Profile Views
-![](https://visitcount.itsvg.in/api?id=tuhin92&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=tuhin9w&icon=0&color=0)
 
 ---
 <div align="center">
