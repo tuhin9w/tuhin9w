@@ -1,14 +1,15 @@
 <div align="center">
   
 # 👋 Hi, I'm Tuhin
-### Frontend Developer | Tech Enthusiast
+### Data Science Student | AI & ML Enthusiast
 </div>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on enhancing my full-stack development skills
-- 🌱 Learning advanced React patterns and system design
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Node.js
+- 🎓 Currently pursuing my journey in Data Science & Artificial Intelligence
+- 🔍 Interested in Machine Learning, Data Analysis, and AI-driven solutions
+- 🧠 Learning Python, Data Structures, and real-world ML applications
+- 💡 Passionate about solving problems using data
+- 🌍 Future goal: Become a Data Scientist / AI Engineer
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -17,35 +18,37 @@
 </p>
 
 ## 💻 Tech Stack
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend Development
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/seaborn-%2300CED1.svg?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🤖 AI / Deep Learning (Learning Phase)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🌐 Web Development (Background)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Database & Tools
+### 🗄️ Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-### Development Tools
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### ⚙️ Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-### Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -55,6 +58,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin9w&theme=react-dark&hide_border=true&area=true" width="90%">
 </p>
 </div> 
+
+## 🧠 Current Focus
+- 📌 Data Analysis Projects
+- 📌 Machine Learning Models
+- 📌 Real-world datasets (Kaggle)
+- 📌 Building AI-based solutions
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tuhin9w&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -68,5 +77,5 @@
 ---
 <div align="center">
   
-### 💡 Let's build something amazing together!
+### 💡 Turning data into meaningful insights!
 </div>
